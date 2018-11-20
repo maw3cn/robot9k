@@ -1,2 +1,2 @@
 # robot9k
-Reddit bot
+A reddit bot for detecting reposts
